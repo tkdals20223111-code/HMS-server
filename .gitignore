@@ -1,0 +1,5 @@
+# macOS 디렉토리 정보 파일
+.DS_Store
+
+# 빌드 파일
+target/
